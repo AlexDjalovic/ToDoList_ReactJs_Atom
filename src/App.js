@@ -80,3 +80,4 @@ render() {
   }
 }
 export default App;
+//mora da se prepravi projekat
